@@ -41,7 +41,7 @@ dataSet[dataSetVersion].options = [
       {
         name: "Season 7",
         tooltip: "S7",
-        key: "WWII",
+        key: "S7",
       },
       {
         name: "Season 8",
@@ -278,6 +278,13 @@ dataSet[dataSetVersion].characterData = [
   {
     name: "Neon",
     img: "M9k77p6.png",
+    opts: {
+      season: ["S5"],
+    },
+  },
+  {
+    name: "Shattered",
+    img: "2XAWlkw.png",
     opts: {
       season: ["S5"],
     },
