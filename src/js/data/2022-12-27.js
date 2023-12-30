@@ -53,6 +53,11 @@ dataSet[dataSetVersion].options = [
         tooltip: "S9",
         key: "S9",
       },
+      {
+        name: "Season 10",
+        tooltip: "S10",
+        key: "S10",
+      },
     ],
   },
 ];
@@ -490,6 +495,69 @@ dataSet[dataSetVersion].characterData = [
     img: "sIEU4rx.png",
     opts: {
       season: ["S9"],
+    },
+  },
+  {
+    name: "Royal Rumble '23",
+    img: "c3xzRlT.png",
+    opts: {
+      season: ["S9"],
+    },
+  },
+  {
+    name: "WrestleMania 39",
+    img: "l2Cfaoe.png",
+    opts: {
+      season: ["S9"],
+    },
+  },
+  {
+    name: "Myth",
+    img: "E6sqkxB.png",
+    opts: {
+      season: ["S9"],
+    },
+  },
+  {
+    name: "SummerSlam '23",
+    img: "5xWXj7r.png",
+    opts: {
+      season: ["S9"],
+    },
+  },
+  {
+    name: "Pantheon",
+    img: "EX2UqFO.png",
+    opts: {
+      season: ["S9"],
+    },
+  },
+  {
+    name: "Tempest",
+    img: "KC79Plj.png",
+    opts: {
+      season: ["S10"],
+    },
+  },
+  {
+    name: "Detention",
+    img: "AtdKYhO.png",
+    opts: {
+      season: ["S10"],
+    },
+  },
+  {
+    name: "Noir",
+    img: "8cOO4hB.png",
+    opts: {
+      season: ["S10"],
+    },
+  },
+  {
+    name: "Crucible",
+    img: "Vabrb7N.png",
+    opts: {
+      season: ["S10"],
     },
   },
 ];
